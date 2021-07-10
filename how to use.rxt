@@ -1,0 +1,7 @@
+# Pre-Requisites
+
+install Ruby 
+
+steps to run the script
+1. provide the input in the input.txt file
+2. run this command `ruby main_runner.rb`
